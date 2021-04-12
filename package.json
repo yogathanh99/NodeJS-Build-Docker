@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-build-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "node test.js"
+  },
+  "author": "ThanhVo",
+  "license": "ISC"
+}
